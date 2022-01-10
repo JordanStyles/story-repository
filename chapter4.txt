@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the forth chapter.
+=======
+This is the forth chapter.
+>>>>>>> mars-twist
